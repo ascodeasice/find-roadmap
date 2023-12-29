@@ -4,7 +4,11 @@
 
 Collection of roadmaps/full tutorials, for helping people find tutorials of a topic.
 
-To find a roadmap, click the topic in the [table of contents](#table-of-contents), and check the section.If you can't find a roadmap, you can create an issue for asking it, or create a PR for adding a new topic/roadmap for it.
+To find a roadmap, click the topic in the [table of contents](#table-of-contents), and check the section.
+
+If you can't find a roadmap, you can [create an issue](https://github.com/ascodeasice/find-roadmap/issues/new/choose) for asking it, or open a PR for adding a new topic/roadmap for it.
+
+For more details about asking roadmap/add roadmap, please see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## Table of Contents
 
