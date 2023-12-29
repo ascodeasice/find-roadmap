@@ -16,12 +16,10 @@ For more details about asking roadmap/add roadmap, please see [CONTRIBUTING.md](
   - [Table of Contents](#table-of-contents)
   - [Collection](#collection)
   - [Programming Languages](#programming-languages)
-    - [Python](#python)
-    - [JavaScript](#javascript)
   - [Skill](#skill)
     - [Frontend](#frontend)
     - [Backend](#backend)
-    - [React](#react)
+    - [Fullstack](#fullstack)
   - [Acknowledgements](#acknowledgements)
 
 ## Collection
@@ -30,17 +28,19 @@ For more details about asking roadmap/add roadmap, please see [CONTRIBUTING.md](
 
 ## Programming Languages
 
-### Python
-
-### JavaScript
-
 ## Skill
 
 ### Frontend
 
+- [Foundations | The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations): A foundation course for learning basic html, css, javascript and git. Helps you learn frontend through building projects.
+
 ### Backend
 
-### React
+### Fullstack
+
+- [Full Stack JavaScript | The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript): Full MERN stack curriculum after the [foundation](https://www.theodinproject.com/paths/foundations/courses/foundations), learn more advanced html and css, building projects with MongoDB, Express.js, React, Node.js
+
+- [Full Stack Ruby on Rails | The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
 
 ## Acknowledgements
 
